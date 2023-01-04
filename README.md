@@ -1,15 +1,15 @@
-# Hi there, I'm Elvaret - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Elvaret 👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🔭 I’m currently a student at Esa Unggul University
+- 🌱 I’m currently learning data science with Anaconda and Docker
+- 👯 I’m looking to collaborate as Data Scientist
+- 🤔 I’m looking for suggest for Automation and Data Scientist
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: elvaretharefa@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) | Bachelor of Electrical Engineering | Jakarta `2017-2020`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics

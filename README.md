@@ -9,32 +9,29 @@
 
 ## Education:
 
-#### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) | Bachelor of Electrical Engineering | Jakarta `2017-2020`
-   - Asistant Laboratorium of Basic Electronics
+#### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) |  Informatics Engineering Student | Jakarta `2020-now`
+   - Leader of Data Warehouse Project
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+ #### 2. [SMA N 1 Sungailiat](https://sman1sungailiat.sch.id/) | MIPA | Sungailiat `2017-2020`
+   - Basketball Captain
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### [Toko Aksesoris Mobil - OTOPART.ID Auto Workshop)](https://otopart.id/) | Website Admin | Jakarta `August 2021 - January 2022`
+   - Manage web (uploading products, managing stocks and prices, update banner)
+   - Implement the web campaign plan and strategy (according to the schedule given, organizing promotions, setting prices, etc)
+   - Monitor and make report (daily, weekly, monthly) the sales, orders and performance of campaigns.
 ---
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" style="padding-right:10px;" />]
+[<img align="left" alt="Anaconda" width="30px" src="https://www.theofficialboard.com/img/twitterCompanyBigImages/96749.jpg" style="padding-right:10px;" />]
+[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />]
+[<img align="left" alt="Pentaho Server" width="30px" src="https://th.bing.com/th/id/R.4625c99a95facecdf09baa83e1d40c7c?rik=u%2boqlSuciFPl6g&riu=http%3a%2f%2fwww.tatvasoft.com%2fblog%2fwp-content%2fuploads%2f2016%2f07%2fpentaho-logo-200x200.png&ehk=vwZZalMJosxOa3icKBSU3tm5ps9INx3Ec7YAr%2bPgHCU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" style="padding-right:0px;" />]
+[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />]
 
 <br />
 <br />
@@ -53,6 +50,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+
 
 
 

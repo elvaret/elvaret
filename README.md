@@ -45,8 +45,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/Elvaret2#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Elvaret2#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/elvaret#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/elvaret#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elvaret/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/elvaret/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/elvaret012#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/elvaret012#gh-dark-mode-only)

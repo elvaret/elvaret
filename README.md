@@ -39,8 +39,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)]([https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ](https://www.youtube.com/channel/UCCskPj6KVM48PBXHMZ2spCg)#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)]([https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ](https://www.youtube.com/channel/UCCskPj6KVM48PBXHMZ2spCg)#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCCskPj6KVM48PBXHMZ2spCg#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCskPj6KVM48PBXHMZ2spCg#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Elvaret2#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Elvaret2#gh-dark-mode-only)

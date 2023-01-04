@@ -11,8 +11,7 @@
 
 #### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) |  Informatics Engineering Student | Jakarta `2020-now`
    - Leader of Data Warehouse Project
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+   - Member of English Pro Club UEU
  #### 2. [SMA N 1 Sungailiat](https://sman1sungailiat.sch.id/) | MIPA | Sungailiat `2017-2020`
    - Basketball Captain
 

@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) |  Informatics Engineering Student | Jakarta `2020-now`
+#### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) |  Informatics Engineering Student | Jakarta `2020-Present`
    - Leader of Data Warehouse Project
    - Member of English Pro Club UEU
  #### 2. [SMA N 1 Sungailiat](https://sman1sungailiat.sch.id/) | MIPA | Bangka `2017-2020`

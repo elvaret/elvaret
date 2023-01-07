@@ -10,6 +10,7 @@
 ## Education:
 
 #### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) |  Informatics Engineering Student | Jakarta `2020-Present`
+   - Joined the Asia university 2022 summer program with classes in Artificial Intelligence and Language & Culture in Taiwan
    - Leader of Data Warehouse Project
    - Member of English Pro Club UEU
  #### 2. [SMA N 1 Sungailiat](https://sman1sungailiat.sch.id/) | MIPA | Bangka `2017-2020`

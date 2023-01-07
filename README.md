@@ -17,7 +17,7 @@
    - Basketball Captain
 
 ## Work Experience:
-#### [Toko Aksesoris Mobil - OTOPART.ID Auto Workshop)](https://otopart.id/) | Website Admin | Jakarta `July 2021 - January 2022`
+#### [Toko Aksesoris Mobil - OTOPART.ID Auto Workshop)](https://otopart.id/) | Website Admin | Jakarta `August 2021 - January 2022`
    - Manage web (uploading products, managing stocks and prices, update banner)
    - Implement the web campaign plan and strategy (according to the schedule given, organizing promotions, setting prices, etc)
    - Monitor and make report (daily, weekly, monthly) the sales, orders and performance of campaigns.

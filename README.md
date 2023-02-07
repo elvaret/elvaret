@@ -1,9 +1,8 @@
 # Hi there, I'm Elvaret 👋
 ## About me:
 - 🔭 I’m currently a student at Esa Unggul University
-- 🌱 I’m currently learning data science with Anaconda and Docker
-- 👯 I’m looking to collaborate as Data Scientist
-- 🤔 I’m looking for suggest for Automation and Data Scientist
+- 🌱 I’m currently learning machine learning and data science
+- 👯 I’m looking to collaborate as Data Scientist and Machine Learning Engineer
 - 💬 Ask me about anything
 - 📫 How to reach me: elvaretharefa@gmail.com
 
@@ -11,7 +10,7 @@
 
 #### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) |  Informatics Engineering Student | Jakarta `2020-Present`
    - Joined the Asia University 2022 summer program with classes in Artificial Intelligence and Language & Culture in Taiwan
-   - Leader of Data Warehouse Project
+   - Joined Bangkit Academy 2023 by Google, GoTo, Traveloka
    - Member of English Pro Club UEU
  #### 2. [SMA N 1 Sungailiat](https://sman1sungailiat.sch.id/) | MIPA | Bangka `2017-2020`
    - Basketball Captain

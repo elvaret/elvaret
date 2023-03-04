@@ -9,7 +9,7 @@
 ## Education:
 
 #### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) |  Informatics Engineering Student | Jakarta `2020-Present`
-   - Joined Bangkit Academy 2023 by Google, GoTo, Traveloka
+   - Joined Bangkit Academy 2023 Machine Learning Path by Google, GoTo, Traveloka
    - Joined the Asia University 2022 summer program with classes in Artificial Intelligence and Language & Culture in Taiwan
    - Member of English Pro Club UEU
  #### 2. [SMA N 1 Sungailiat](https://sman1sungailiat.sch.id/) | MIPA | Bangka `2017-2020`

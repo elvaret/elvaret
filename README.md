@@ -28,11 +28,11 @@
 [<img align="left" alt="Anaconda" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Docker" width="35px" src="https://www.jhipster.tech/images/logo/docker-hub.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pentaho Server" width="30px" src="https://banner2.cleanpng.com/20180802/whc/kisspng-penguin-tux-design-logo-linux-cheap-linux-hosting-cheapest-linux-web-hosting-pla-5b6322afc09510.3494081415332235997888.jpg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Linux" width="30px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="35px" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="React.js" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="HTML_CSS+JS" width="30px" src="https://img1.pngdownload.id/20180820/wct/kisspng-website-development-javascript-html5-css3-cascadin-appload-comprehensive-software-and-mobile-app-de-5b7b834d88ecc4.8484732115348211975609.jpg" style="padding-right:10px;" />][webdev]
 
 <br />

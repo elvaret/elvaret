@@ -25,7 +25,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Anaconda" width="30px" src="https://www.theofficialboard.com/img/twitterCompanyBigImages/96749.jpg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Anaconda" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Docker" width="35px" src="https://www.jhipster.tech/images/logo/docker-hub.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pentaho Server" width="30px" src="https://th.bing.com/th/id/R.4625c99a95facecdf09baa83e1d40c7c?rik=u%2boqlSuciFPl6g&riu=http%3a%2f%2fwww.tatvasoft.com%2fblog%2fwp-content%2fuploads%2f2016%2f07%2fpentaho-logo-200x200.png&ehk=vwZZalMJosxOa3icKBSU3tm5ps9INx3Ec7YAr%2bPgHCU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" style="padding-right:0px;" />][webdev]

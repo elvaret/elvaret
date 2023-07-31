@@ -9,10 +9,10 @@
 ## Education:
 
 #### 1. [Esa Unggul University](https://www.esaunggul.ac.id/) |  Informatics Engineering Student | Jakarta `2020-Present`
-   - Joined Bangkit Academy 2023 Machine Learning Path by Google, GoTo, Traveloka
    - Joined the Asia University 2022 summer program with classes in Artificial Intelligence and Language & Culture in Taiwan
    - Member of English Pro Club UEU
  #### 2. [Bangkit Academy 2023 Batch 1](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning | Jakarta `2023`
+   - Joined Bangkit Academy 2023 Machine Learning Path by Google, GoTo, Traveloka
    - Skills: Professional Communication and Networking · Project Management · Decision-Making · Python (Programming Language) · TensorFlow · Deep Learning · Machine Learning
 
 ## Work Experience:

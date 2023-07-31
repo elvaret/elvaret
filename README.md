@@ -12,8 +12,8 @@
    - Joined Bangkit Academy 2023 Machine Learning Path by Google, GoTo, Traveloka
    - Joined the Asia University 2022 summer program with classes in Artificial Intelligence and Language & Culture in Taiwan
    - Member of English Pro Club UEU
- #### 2. [SMA N 1 Sungailiat](https://sman1sungailiat.sch.id/) | MIPA | Bangka `2017-2020`
-   - Basketball Captain
+ #### 2. [Bangkit Academy 2023 Batch 1](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning | Jakarta `2023`
+   - Skills: Professional Communication and Networking · Project Management · Decision-Making · Python (Programming Language) · TensorFlow · Deep Learning · Machine Learning
 
 ## Work Experience:
 #### [Toko Aksesoris Mobil - OTOPART.ID Auto Workshop)](https://otopart.id/) | Website Admin | Jakarta `August 2021 - January 2022`

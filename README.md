@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently a student at Esa Unggul University
 - 🌱 I’m currently learning machine learning and data science
-- 👯 I’m looking to collaborate as Data Scientist and Machine Learning Engineer
+- 👯 I’m looking to collaborate as Machine Learning Engineer and Data Scientist 
 - 💬 Ask me about anything
 - 📫 How to reach me: elvaretharefa@gmail.com
 
